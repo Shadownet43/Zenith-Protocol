@@ -1,0 +1,15 @@
+# --- Keamanan (WAJIB ADA) ---
+keys/
+*.pem
+
+# --- Environment & Sampah Sistem ---
+myenv/
+venv/
+__pycache__/
+*.pyc
+*.swp
+
+# --- File Sementara ---
+*.zenith
+*.png
+!logo.png
