@@ -12,4 +12,4 @@ __pycache__/
 # --- File Sementara ---
 *.zenith
 *.png
-!logo.png
+!logo.pngdata/
